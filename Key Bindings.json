@@ -1,0 +1,3 @@
+[
+	{ "keys": ["Ctrl+L"], "command": "list_plugins" }
+]
