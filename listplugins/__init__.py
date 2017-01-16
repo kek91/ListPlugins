@@ -10,7 +10,7 @@ class ListPlugins(DirectoryPaneCommand):
         elif platform.system() == "Linux":
             appdata = path.expanduser("~") + "/.config"
         elif platform.system() == "Darwin":
-            appdata = path.expanduser("~") + "/Library/Application Support/fman"
+            appdata = path.expanduser("~") + "/Library/Application Support"
 
         plugin_dir = glob.glob(appdata + "/fman/Plugins/*")
         plugin_amount = 0
