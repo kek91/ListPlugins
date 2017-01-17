@@ -11,7 +11,8 @@ Press **CTRL+L**
 You may ignore plugins from the list by adding them to the `plugins_ignore` list in `ListPlugins/listplugins/__init__.py`
 
 **Changelog**
-
+- 16.01.2017:
+ - Fixed path to Plugins dir for Mac (Thanks [@mherrmann](https://github.com/mherrmann))
 - 28.11.2016:
  - Fixed cross platform issue (tested for Linux and Windows)
 
