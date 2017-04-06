@@ -1,5 +1,13 @@
 # ListPlugins
 
+
+
+**Obsolete**
+
+**This functionality is now implemented in fman so this plugin is no longer needed!**
+
+
+
 Plugin for [fman.io](https://fman.io) to see installed plugins.
 
 Install by uploading "ListPlugins" to your [data directory](https://fman.io/docs/customizing-fman)`/Plugins`.
